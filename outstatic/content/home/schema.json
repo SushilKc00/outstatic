@@ -11,7 +11,7 @@
     },
     "title": {
       "required": false,
-      "description": "title",
+      "description": "subtitle",
       "fieldType": "String",
       "dataType": "string",
       "title": "title"
