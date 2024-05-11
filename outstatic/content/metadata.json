@@ -1,6 +1,6 @@
 {
-  "commit": "e10d9eae68d42192b1bd6244dcc9c9357f0599d0",
-  "generated": "2024-05-11T07:10:22.507Z",
+  "commit": "c6d3092c0921b4bbf95f2215bc99486e134c8418",
+  "generated": "2024-05-11T07:11:59.280Z",
   "metadata": [
     {
       "__outstatic": {
@@ -92,6 +92,24 @@
       "slug": "vaccation-by-the-river",
       "status": "published",
       "title": "vaccation by the river"
+    },
+    {
+      "__outstatic": {
+        "commit": "c6d3092c0921b4bbf95f2215bc99486e134c8418",
+        "hash": "2783551075",
+        "path": "outstatic/content/home/experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "home",
+      "coverImage": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere non leo ac maximus. Nullam ultrices malesuada nunc, eget malesuada turpis hendrerit.",
+      "publishedAt": "2024-05-11T07:43:33.359Z",
+      "slug": "experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature",
+      "status": "published",
+      "title": "Experience a retreat like no other, where every moment is infused with the magic of nature"
     }
   ]
 }
