@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "hero second"
+    },
+    "heroThird": {
+      "required": false,
+      "description": "third hero",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "hero third"
     }
   }
 }
