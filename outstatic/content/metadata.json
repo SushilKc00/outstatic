@@ -1,28 +1,10 @@
 {
-  "commit": "65dfc725420d759593c76e241fe47714a2dce513",
-  "generated": "2024-05-11T06:34:42.699Z",
+  "commit": "fedd15442ad9e88d7fdc0851181733c02b9e2447",
+  "generated": "Sat, 11 May 2024 06:36:59 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "e6988daec5dbf79e92361fb28c797f28204a09ea",
-        "hash": "3014592960",
-        "path": "outstatic/content/contact/contact.md"
-      },
-      "author": {
-        "name": "Hem",
-        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
-      },
-      "collection": "contact",
-      "coverImage": "",
-      "description": "it is good to connect",
-      "publishedAt": "2024-05-11T07:00:54.067Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "65dfc725420d759593c76e241fe47714a2dce513",
+        "commit": "17206a36a4dea3809d4f94fac4814963f232228b",
         "hash": "3238786149",
         "path": "outstatic/content/hero/hero.md"
       },
@@ -38,6 +20,24 @@
       "slug": "hero",
       "status": "published",
       "title": "hero"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c2d149d17656301bac2c7ea9f285ded1c96d149",
+        "hash": "3014592960",
+        "path": "outstatic/content/contact/contact.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "contact",
+      "coverImage": "",
+      "description": "it is good to connect",
+      "publishedAt": "2024-05-11T07:00:54.067Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "contact"
     }
   ]
 }
