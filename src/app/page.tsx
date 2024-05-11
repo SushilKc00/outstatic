@@ -12,7 +12,7 @@ export default async function Home() {
   );
 }
 async function getData() {
-  const posts = getDocuments("hero", ["title"]);
+  const posts = getDocuments("contact", ["title", "description,"]);
 
   return posts;
 }
