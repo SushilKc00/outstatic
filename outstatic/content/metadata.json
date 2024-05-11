@@ -1,0 +1,24 @@
+{
+  "commit": "de01c3167eb66627bf2da280db0280bfc7f2cc4e",
+  "generated": "Sat, 11 May 2024 06:24:43 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "d3b49f825675ab2d8b256fe3ca2acd83993c407a",
+        "hash": "2873648495",
+        "path": "outstatic/content/hero/hero.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "hero",
+      "coverImage": "/images/cat-Q0OD.png",
+      "description": "this is hero diescription",
+      "publishedAt": "2024-05-11T06:36:21.089Z",
+      "slug": "hero",
+      "status": "published",
+      "title": "hero"
+    }
+  ]
+}
