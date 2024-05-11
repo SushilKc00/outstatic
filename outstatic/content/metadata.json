@@ -1,6 +1,6 @@
 {
-  "commit": "61afb799da74b7941f875d3ac4738010b71fab92",
-  "generated": "2024-05-11T07:15:12.349Z",
+  "commit": "9a3f3394271f1d1b3d84974b88879f0aac4d34ba",
+  "generated": "2024-05-11T07:15:58.047Z",
   "metadata": [
     {
       "__outstatic": {
@@ -77,25 +77,6 @@
     },
     {
       "__outstatic": {
-        "commit": "aaef29000e4f91cbf201a0a7516e40ef98b4eb3e",
-        "hash": "1800532880",
-        "path": "outstatic/content/home/experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature.md"
-      },
-      "author": {
-        "name": "Hem",
-        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
-      },
-      "collection": "home",
-      "coverImage": "",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere non leo ac maximus. Nullam ultrices malesuada nunc, eget malesuada turpis hendrerit.",
-      "links": "www.google.com",
-      "publishedAt": "2024-05-11T07:43:33.359Z",
-      "slug": "experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature",
-      "status": "published",
-      "title": "Experience a retreat like no other, where every moment is infused with the magic of nature"
-    },
-    {
-      "__outstatic": {
         "commit": "61afb799da74b7941f875d3ac4738010b71fab92",
         "hash": "1630986545",
         "path": "outstatic/content/home/vaccation-by-the-river.md"
@@ -112,6 +93,26 @@
       "slug": "vaccation-by-the-river",
       "status": "published",
       "title": "vaccation by the river"
+    },
+    {
+      "__outstatic": {
+        "commit": "9a3f3394271f1d1b3d84974b88879f0aac4d34ba",
+        "hash": "3938801062",
+        "path": "outstatic/content/home/experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "home",
+      "coverImage": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere non leo ac maximus. Nullam ultrices malesuada nunc, eget malesuada turpis hendrerit.",
+      "links": "www.google.com",
+      "publishedAt": "2024-05-11T07:43:33.359Z",
+      "slug": "experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature",
+      "status": "published",
+      "subtitle": "About",
+      "title": "Experience a retreat like no other, where every moment is infused with the magic of nature"
     }
   ]
 }
