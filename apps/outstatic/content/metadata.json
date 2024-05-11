@@ -1,7 +1,25 @@
 {
-  "commit": "2f8094574a6e27694e84308dbc5c7e101ae27786",
-  "generated": "2024-05-11T05:47:07.152Z",
+  "commit": "fbfdf2c690527eef24ea7cbe990259d304fd0c97",
+  "generated": "Sat, 11 May 2024 05:49:02 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "f2e347c3f395b5b3898620848a1f0f83b7ba5fd7",
+        "hash": "2114975271",
+        "path": "/outstatic/content/contact/contact.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "contact",
+      "coverImage": "",
+      "description": "this is contact",
+      "publishedAt": "2024-05-11T06:19:48.703Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "contact"
+    },
     {
       "__outstatic": {
         "commit": "109af73f84436e47ba2f86dbf4ad4fe593895a7b",
@@ -19,24 +37,6 @@
       "slug": "test",
       "status": "published",
       "title": "test"
-    },
-    {
-      "__outstatic": {
-        "commit": "2f8094574a6e27694e84308dbc5c7e101ae27786",
-        "hash": "2114975271",
-        "path": "outstatic/content/contact/contact.md"
-      },
-      "author": {
-        "name": "Hem",
-        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
-      },
-      "collection": "contact",
-      "coverImage": "",
-      "description": "this is contact",
-      "publishedAt": "2024-05-11T06:19:48.703Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "contact"
     }
   ]
 }
