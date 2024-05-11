@@ -1,6 +1,6 @@
 {
-  "commit": "de01c3167eb66627bf2da280db0280bfc7f2cc4e",
-  "generated": "Sat, 11 May 2024 06:24:43 GMT",
+  "commit": "e6988daec5dbf79e92361fb28c797f28204a09ea",
+  "generated": "2024-05-11T06:28:21.036Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "hero",
       "status": "published",
       "title": "hero"
+    },
+    {
+      "__outstatic": {
+        "commit": "e6988daec5dbf79e92361fb28c797f28204a09ea",
+        "hash": "3014592960",
+        "path": "outstatic/content/contact/contact.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "contact",
+      "coverImage": "",
+      "description": "it is good to connect",
+      "publishedAt": "2024-05-11T07:00:54.067Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "contact"
     }
   ]
 }
