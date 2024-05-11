@@ -1,6 +1,6 @@
 {
-  "commit": "fedd15442ad9e88d7fdc0851181733c02b9e2447",
-  "generated": "Sat, 11 May 2024 06:36:59 GMT",
+  "commit": "02d1d96ea40c65037f53418c4d233a80bebd4e04",
+  "generated": "2024-05-11T06:39:06.624Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,6 +38,24 @@
       "slug": "contact",
       "status": "published",
       "title": "contact"
+    },
+    {
+      "__outstatic": {
+        "commit": "02d1d96ea40c65037f53418c4d233a80bebd4e04",
+        "hash": "2257960997",
+        "path": "outstatic/content/contact/second.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "contact",
+      "coverImage": "",
+      "description": "second desriptio ",
+      "publishedAt": "2024-05-11T07:11:45.548Z",
+      "slug": "second",
+      "status": "published",
+      "title": "second"
     }
   ]
 }
