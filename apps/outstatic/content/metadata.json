@@ -1,6 +1,24 @@
 {
-  "commit": "7472720a919d3fee1fbc3eaf36029b9b90aac537",
-  "generated": "2024-05-11T05:28:59.697Z",
+  "commit": "3697c7f95654fcbb1ea0ae6b93cc848d37a22692",
+  "generated": "2024-05-11T05:31:18.326Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "3697c7f95654fcbb1ea0ae6b93cc848d37a22692",
+        "hash": "629661238",
+        "path": "outstatic/content/hero/test.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "hero",
+      "coverImage": "/images/cat-gyOT.png",
+      "description": "this is test",
+      "publishedAt": "2024-05-11T06:03:25.880Z",
+      "slug": "test",
+      "status": "published",
+      "title": "test"
+    }
   ]
 }
