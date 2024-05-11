@@ -1,24 +1,6 @@
 {
-  "commit": "b54df0e28d6355c858c4fc34d95128fe856c2f68",
-  "generated": "2024-05-11T05:28:55.765Z",
+  "commit": "7472720a919d3fee1fbc3eaf36029b9b90aac537",
+  "generated": "2024-05-11T05:28:59.697Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1aae964766343e4fc17ca561060fef25baf08b8c",
-        "hash": "2410130508",
-        "path": "/outstatic/content/users/this-is-test.md"
-      },
-      "author": {
-        "name": "Hem",
-        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
-      },
-      "collection": "users",
-      "coverImage": "/images/cat-M1Mj.png",
-      "description": "this is descripiton ",
-      "publishedAt": "2024-05-11T05:47:04.781Z",
-      "slug": "this-is-test",
-      "status": "draft",
-      "title": "This is test"
-    }
   ]
 }
