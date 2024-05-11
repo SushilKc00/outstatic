@@ -1,0 +1,13 @@
+{
+  "title": "hero",
+  "type": "object",
+  "properties": {
+    "heroSecond": {
+      "required": false,
+      "description": "this second",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "hero second"
+    }
+  }
+}
