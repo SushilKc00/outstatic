@@ -1,6 +1,6 @@
 ---
 title: 'vaccation by the river'
-status: 'draft'
+status: 'published'
 author:
   name: 'Hem'
   picture: 'https://avatars.githubusercontent.com/u/112458846?v=4'
