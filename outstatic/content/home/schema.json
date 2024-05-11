@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "links"
+    },
+    "title": {
+      "required": false,
+      "description": "title",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "title"
     }
   }
 }
