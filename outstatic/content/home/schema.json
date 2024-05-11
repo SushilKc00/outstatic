@@ -1,0 +1,13 @@
+{
+  "title": "home",
+  "type": "object",
+  "properties": {
+    "links": {
+      "required": false,
+      "description": "link",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "links"
+    }
+  }
+}
