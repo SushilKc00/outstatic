@@ -7,6 +7,7 @@ author:
 slug: 'hero'
 description: 'this is hero diescription'
 coverImage: '/images/cat-Q0OD.png'
+heroSecond: 'this is second hero'
 publishedAt: '2024-05-11T06:36:21.089Z'
 ---
 
