@@ -1,6 +1,6 @@
 {
-  "commit": "02d1d96ea40c65037f53418c4d233a80bebd4e04",
-  "generated": "2024-05-11T06:39:06.624Z",
+  "commit": "b8a931767aae56ea741b197ae456ccdba05421d0",
+  "generated": "2024-05-11T06:49:47.677Z",
   "metadata": [
     {
       "__outstatic": {
@@ -56,6 +56,24 @@
       "slug": "second",
       "status": "published",
       "title": "second"
+    },
+    {
+      "__outstatic": {
+        "commit": "b8a931767aae56ea741b197ae456ccdba05421d0",
+        "hash": "946937839",
+        "path": "outstatic/content/cards/card.md"
+      },
+      "author": {
+        "name": "Hem",
+        "picture": "https://avatars.githubusercontent.com/u/112458846?v=4"
+      },
+      "collection": "cards",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-11T07:22:34.326Z",
+      "slug": "card",
+      "status": "published",
+      "title": "card"
     }
   ]
 }
