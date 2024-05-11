@@ -1,6 +1,6 @@
 {
-  "commit": "c6d3092c0921b4bbf95f2215bc99486e134c8418",
-  "generated": "2024-05-11T07:11:59.280Z",
+  "commit": "aaef29000e4f91cbf201a0a7516e40ef98b4eb3e",
+  "generated": "2024-05-11T07:13:15.580Z",
   "metadata": [
     {
       "__outstatic": {
@@ -95,8 +95,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c6d3092c0921b4bbf95f2215bc99486e134c8418",
-        "hash": "2783551075",
+        "commit": "aaef29000e4f91cbf201a0a7516e40ef98b4eb3e",
+        "hash": "1800532880",
         "path": "outstatic/content/home/experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature.md"
       },
       "author": {
@@ -106,6 +106,7 @@
       "collection": "home",
       "coverImage": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere non leo ac maximus. Nullam ultrices malesuada nunc, eget malesuada turpis hendrerit.",
+      "links": "www.google.com",
       "publishedAt": "2024-05-11T07:43:33.359Z",
       "slug": "experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature",
       "status": "published",

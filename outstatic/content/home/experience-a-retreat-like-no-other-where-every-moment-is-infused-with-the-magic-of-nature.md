@@ -7,6 +7,7 @@ author:
 slug: 'experience-a-retreat-like-no-other-where-every-moment-is-infused-with-the-magic-of-nature'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere non leo ac maximus. Nullam ultrices malesuada nunc, eget malesuada turpis hendrerit.'
 coverImage: ''
+links: 'www.google.com'
 publishedAt: '2024-05-11T07:43:33.359Z'
 ---
 
